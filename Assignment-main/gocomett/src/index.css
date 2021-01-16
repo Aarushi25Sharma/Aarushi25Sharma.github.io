@@ -1,0 +1,223 @@
+p{
+  font-family: century-gothic;
+}
+
+
+.MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary topnav MuiPaper-elevation4{
+  background-color: #FFF;
+  color: #000000;
+}
+
+
+
+.sort{
+  font-size: 18px;
+  margin-left: 100px;
+}
+
+.basic-select{
+    margin-left: 100px;
+}
+
+.arrow{
+  height: 25px;
+  width: 100px;
+  font-family: century-gothic;
+  margin-bottom: 30px;
+}
+.MuiInputBase-input{
+ margin-top: 1px;
+}
+
+.job{
+  display: inline-block;
+}
+
+.page{
+  display: inline-block;
+  margin-left: 260px;
+  font-family: century-gothic;
+}
+
+.MuiCardContent-root{
+  background-color: #F1FAFF;
+  margin-top: 15px;
+  border-radius: 2px;
+  padding: 10px;
+}
+
+.page1{
+  display: inline-block;
+  margin-left: 320px;
+  margin-top: 10px;
+}
+.h2{
+  color: #1082CB;
+  display: inline-grid;
+  font-family: century-gothic;
+  font-size: 22px;
+  margin-top: 5px;
+  margin-bottom: 0.5px;
+}
+
+
+.dou{
+  font-size: 14px;
+}
+
+
+.filter{
+  width: 70%;
+  margin-left: 100px;
+}
+
+.{
+  display:inline;
+  margin-top: 10px;
+  font-size: 14px;
+  flex-grow: row;
+  align-self: flex-start;
+  justify-content: space-between;
+}
+
+.rad{
+  display:inline;
+  align-self: flex-end;
+  justify-content: flex-end;
+}
+
+.Sliders{
+  margin-top: 5px;
+  display: inline;
+  float: left;
+}
+.po{
+  margin-left: 5px;
+  font-size: 24px;
+  font-weight: 100;
+  font-family: century-gothic;
+  display: inline;
+}
+.pa{
+  font-size: 14px;
+  font-family: century-gothic;
+  display: inline;
+  float: right;
+  color: #1082CB;
+}
+.MuiButton-root{
+  color:#1082CB;
+}
+
+.input{
+  margin-top: 10px;
+
+}
+.MuiAutocomplete-inputRoot[class*="MuiInput-root"] .MuiAutocomplete-input:first-child{
+  marginTop: theme.spacing(0);
+}
+
+.Autocomplete::-webkit-calendar-picker-indicator {
+  display: none;
+  appearance: none;
+}
+.MuiSvgIcon-root {
+    fill: currentColor;
+    width: 0em;
+    height: 0em;
+    display: none;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+}
+
+.footer{
+  background-color: #F1FAFF;
+  height: 50vh;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.logo{
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.about{
+  margin-left: 30px;
+}
+.fop{
+  margin-top: 45px;
+  font-size: 12px;
+  font-weight: bolder;
+}
+.fohe{
+  font-family: century-gothic;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.text{
+  font-size: 14px;
+}
+
+.devider{
+  margin-left: 20px;
+}
+
+.facebook{
+  margin-left: 30px;
+}
+
+.twitter{
+  margin-left: 50px;
+}
+.bol{
+  margin-top: 80px;
+}
+
+.fool{
+  margin-top: 80px;
+  display: inline;
+}
+.fool2{
+  margin-top: 80px;
+  display: inline;
+  margin-left: 50px;
+}
+.l1{
+  display: inline;
+}
+
+.l12{
+  display: inline;
+  margin-left: 35px;
+}
+
+.l2{
+  display: inline;
+}
+
+.l22{
+  display: inline;
+  margin-left: 30px;
+}
+
+.l3{
+  display: inline;
+}
+
+.l32{
+  display: inline;
+  margin-left: 95px;
+}
+
+.l4{
+  display: inline;
+}
+
+.l42{
+  display: inline;
+  margin-left: 90px;
+}
